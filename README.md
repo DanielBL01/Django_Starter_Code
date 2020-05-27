@@ -13,10 +13,10 @@ This codebase can help beginners understand how Django works with static files a
 
 Django also highly recommends using a custom user model for new projects. This code will show you how that's done
 
-Finally, the starter code builds a simple user authentication with a sign up and Login page. 
+Finally, the starter code builds a simple user authentication with a Signup and Login page. 
 
-
-To style Django forms, I used a 3rd party program called crispy-forms which I highly recommend
+# 3rd Party 
+Django projects can use many great 3rd party programs. For this project, I used a app called crispy-forms which styles Django forms!
 ```bash
 pipenv install django-crispy-forms
 ```
